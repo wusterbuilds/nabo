@@ -1,0 +1,28 @@
+name: Bug report
+description: Report reproducible unexpected behavior in demo mode.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Do not attach ad-account credentials, customer lists, or campaign exports.
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps
+      description: Reproduce in demo mode whenever possible.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, browser, Node version, and commit.
+    validations:
+      required: true
