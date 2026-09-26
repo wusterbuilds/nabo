@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/brand/hero.svg" alt="Nabo — the marketing notepad that executes" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/wusterbuilds/nabo/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/wusterbuilds/nabo/actions/workflows/ci.yml/badge.svg" /></a>
   <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-0f0e12" /></a>
   <a href="CONTRIBUTING.md"><img alt="Contributions welcome" src="https://img.shields.io/badge/contributions-welcome-c8ff1a" /></a>
